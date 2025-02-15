@@ -1,4 +1,4 @@
-# Code Review Application
+# AI-Powered Code Reviewer | Complete MERN Stack Project
 
 ## Overview
 The **Code Review Application** is a web-based tool that allows users to input code, send it to an AI service for review, and display the feedback. The application consists of a **React frontend** and an **Express backend** that integrates with Google Gemini AI to analyze and review the submitted code.
